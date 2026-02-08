@@ -1,0 +1,51 @@
+# ZERO TO MASTERY: Java OOP & System Design
+
+## PHASE 1: OOPS FOUNDATIONS (Java-centric)
+- [ ] **Class vs Object** (Real-world mapping)
+- [ ] Encapsulation (Access modifiers, Getters/Setters, WHY)
+- [ ] Abstraction (Interfaces vs Abstract Classes)
+- [ ] Inheritance (The "Is-A" trap)
+- [ ] Polymorphism (Overloading vs Overriding)
+- [ ] SOLID Principles
+    - [ ] Single Responsibility
+    - [ ] Open/Closed
+    - [ ] Liskov Substitution
+    - [ ] Interface Segregation
+    - [ ] Dependency Inversion
+- [ ] Composition vs Inheritance
+- [ ] Common OOP Interview Traps
+
+## PHASE 2: THINKING IN SYSTEMS
+- [ ] Component breakdown
+- [ ] Entities & Boundaries
+- [ ] God Class Anti-pattern
+- [ ] Designing for Change
+- [ ] Trade-offs (Visualizing decisions)
+
+## PHASE 3: LOW-LEVEL DESIGN (LLD)
+- [ ] Class Diagrams & Contracts
+- [ ] Service vs Model
+- [ ] Design Patterns
+    - [ ] Factory
+    - [ ] Strategy
+    - [ ] Observer
+    - [ ] Singleton
+- [ ] Exception Handling Design
+- [ ] **Projects:**
+    - [ ] Library Management System
+    - [ ] Online Exam System
+    - [ ] Banking System
+    - [ ] Parking Lot
+    - [ ] Simple Chat System
+
+## PHASE 4: SCALABLE THINKING (Light HLD)
+- [ ] N-Tier Architecture (Controller, Service, Repo)
+- [ ] REST API Basics
+- [ ] Concurrency Basics
+- [ ] Caching Strategies
+- [ ] Database: Objects vs Tables
+
+## PHASE 5: INTERVIEW MODE
+- [ ] Mock Interviews (Zoho Style)
+- [ ] Rapid Fire Design Challenges
+- [ ] "What If" Scenarios
